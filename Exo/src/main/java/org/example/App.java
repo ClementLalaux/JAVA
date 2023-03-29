@@ -16,6 +16,11 @@ public class App
         //Exercice4.PositifNegatif();
         //Exercice5.Produit();
         //Exercice6.TrierMot();
-        Exercice7.DemandeNb();
+        //Exercice7.DemandeNb();
+        //Exercice8.Categorie();
+        //Exercice9.DivisibleParTrois();
+        //Exercice10.Photocopie();
+        //Exercice11.TableDeMultiplication();
+        Exercice12.Somme();
     }
 }
