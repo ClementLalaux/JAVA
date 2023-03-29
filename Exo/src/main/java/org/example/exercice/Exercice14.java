@@ -16,7 +16,7 @@ public class Exercice14 {
         Scanner sc2 = new Scanner(System.in);
         lettre = sc.next();
 
-        System.out.println("Occurence de la lettre " + lettre + " = " + phrase.split(lettre).length);
+        System.out.println("Occurence de la lettre " + lettre + " = " + (phrase.split(lettre).length-1));
     }
 
 }

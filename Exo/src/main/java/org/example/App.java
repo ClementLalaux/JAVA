@@ -23,9 +23,9 @@ public class App
         //Exercice11.TableDeMultiplication();
         //Exercice12.Somme();
         //Exercice13.Comptage();
-        //Exercice14.Recurrence();
+        Exercice14.Recurrence();
         //Exercice15.Anagramme();
         //Exercice16.Palindrome();
-        Exercice17.Pyramide();
+        //Exercice17.Pyramide();
     }
 }
