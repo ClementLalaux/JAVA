@@ -1,8 +1,6 @@
 package org.example;
 
-import org.example.exercice.Exercice1;
-import org.example.exercice.Exercice2;
-import org.example.exercice.Exercice3;
+import org.example.exercice.*;
 
 /**
  * Hello world!
@@ -14,6 +12,10 @@ public class App
     {
         //Exercice1.Carre();
         //Exercice2.Bonjour();
-        Exercice3.TVA();
+        //Exercice3.TVA();
+        //Exercice4.PositifNegatif();
+        //Exercice5.Produit();
+        //Exercice6.TrierMot();
+        Exercice7.DemandeNb();
     }
 }
