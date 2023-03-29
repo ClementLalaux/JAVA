@@ -12,7 +12,7 @@ public class Exercice10 {
 
         System.out.println("Le prix est de : " + (nbPhotocopies>20 ? nbPhotocopies*0.05 :
             nbPhotocopies>=10 && nbPhotocopies<=20 ? nbPhotocopies*0.10 :
-            nbPhotocopies*0.15));
+            nbPhotocopies*0.15 ));
 
     }
 }
