@@ -19,7 +19,7 @@ public class Exercice21 {
             newTab[i] = tab[i];
         }
         int j = 0;
-        for (int i = tab.length-1; i < newTab.length-1; i++) {
+        for (int i = tab.length-1; i < newTab.length; i++) {
             newTab[i] = newTab[j]*2;
             j++;
         }
@@ -33,7 +33,7 @@ public class Exercice21 {
         int[] tFinal;
         tFinal = SizeDouble(SizeAleatoire(taille));
 
-        for (int i = 0; i < tFinal.length-1; i++) {
+        for (int i = 0; i < tFinal.length; i++) {
             System.out.print(tFinal[i] + " , ");
         }
     }

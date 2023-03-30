@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Exercice19 {
     public static void TableauNotes() {
-        int[] notes = new int[20];
+        int[] notes = new int[10];
         Scanner sc = new Scanner(System.in);
         float moyenne = 0;
         int max=0;

@@ -30,6 +30,9 @@ public class App
         //Exercice18.Courses();
         //Exercice19.TableauNotes();
         //Exercice20.Decalage();
-        Exercice21.Table();
+        //Exercice21.Table();
+        //Exercice22.Comptage(2);
+        //Exercice23.Triage();
+        Exercice24.Inversion();
     }
 }
