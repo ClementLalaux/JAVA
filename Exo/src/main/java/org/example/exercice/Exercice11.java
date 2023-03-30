@@ -10,7 +10,7 @@ public class Exercice11 {
         Scanner sc = new Scanner(System.in);
         nb = sc.nextInt();
 
-        for (int i = 0; i < 11; i++) {
+        for (int i = 1; i < 11; i++) {
             System.out.println(nb + " x "+ i + " = "+ i*nb );
         }
 
