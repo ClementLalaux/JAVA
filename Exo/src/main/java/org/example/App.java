@@ -27,8 +27,9 @@ public class App
         //Exercice15.Anagramme();
         //Exercice16.Palindrome();
         //Exercice17.Pyramide();
-        Exercice18.Courses();
+        //Exercice18.Courses();
         //Exercice19.TableauNotes();
         //Exercice20.Decalage();
+        Exercice21.Table();
     }
 }
